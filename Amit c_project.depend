@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1659668511 source:e:\amit diploma\c diploma\amit c_project\project.c
+	"project.h"
+
+1659668786 source:e:\amit diploma\c diploma\amit c_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"project.h"
+
+1659668527 e:\amit diploma\c diploma\amit c_project\project.h
+	"std_types.h"
+
+1659645044 e:\amit diploma\c diploma\amit c_project\std_types.h
+
